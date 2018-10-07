@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38C6D4</color>
+    <color name="colorPrimaryDark">#3D3C42</color>
+    <color name="colorActiveMenu">#38C6D4</color>
+    <color name="colorAccent">#38C6D4</color>
+    <color name="colorSettings">#38C6D4</color>
+    <color name="colorTabUnselect">#666666</color>
+    <color name="colorSettingsHead">#FFFFFF</color>
+    <color name="colorSettingsSubHead">#274f9c</color>
+    <color name="colorFaq">#193b9c</color>
+    <color name="colorCoinsSwipe">#9fa280</color>
+    <color name="colorCoinsSwipeTextOpened">#03a6f5</color>
+    <color name="colorCoinsSwipeText">#e4ca52</color>
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="swipeActionBack">#092206</color>
+    <color name="swipeActionText">#0b0b0b</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+    <color name="red">#FF3B00</color>
+    <color name="red_press">#990000</color>
+    <color name="back_settings">#103073</color>
+    <color name="back_settings2">#24388c</color>
+    <color name="text_settings">#1a1a1a</color>
+    <color name="dark_gray">#4C535B</color>
+    <color name="dark_gray_press">#ff7e8a97</color>
+    <color name="coin_recycler_item_color">#131313</color>
+    <color name="ready_coin_color">#497BE2</color>
+    <color name="old_coin_color">#ff0088</color>
+    <color name="coin_action_color">#656565</color>
+    <color name="ready_coin_color_alpha">#22497BE2</color>
+    <color name="reissue_coin_color">#8d906c</color>
+    <color name="wait_coin_color">#FEFEFE</color>
+    <color name="coin_activity_selected_items_bar_color">#38C6D4</color>
+    <color name="recycler_common_item_actions_color">#0B0B0B</color>
+    <color name="recycler_common_item_action_selected_color">#1F3583</color>
+    <color name="action_blue_container_color">#38C6D4</color>
+    <color name="reissue_divider_color">#070E1C</color>
+
+    <color name="mainColorBg">#3D3C42</color>
+    <color name="listItemColor">#5A595E</color>
+    <color name="textGreen">#38C6D4</color>
+    <color name="langBorderColor">#9b82b3</color>
+    <color name="formColorAccent">#CC95FA</color>
+
+    <color name="colorStatusIssue">#FF6600</color>
+    <color name="colorStatusReady">#00E9FE</color>
+    <color name="colorStatusWait">#FFFFFF</color>
+    <color name="colorStatusOld">#5F5F5F</color>
+    <color name="bottom_popup_bg">#1C1B20</color>
+    <color name="error_color">#ED6617</color>
+</resources>
